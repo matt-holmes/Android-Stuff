@@ -1,4 +1,4 @@
-/ToastQuiz/gradle
-/ToastQuiz/.gradle
-/ToastQuiz/app/build
-/ToastQuiz/app/libs
+/**/gradle
+/**/.gradle
+/**/app/build
+/**/app/libs
