@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void resetGameState() {
-        for( int i = 0; i < gameState.length - 1; i++) {
+        for( int i = 0; i < gameState.length; i++) {
             gameState[i] = 2;
         }
     }
